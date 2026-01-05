@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🥰Hi there<br>🖥I am a Machine Learning Engineer & a Data Scientist<br>🌱I love nature 
+<br>🖥I am a Machine Learning Engineer & a Data Scientist<br>🌱I love nature 
 
 
 # 💻 Tech Stack:
