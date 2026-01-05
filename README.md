@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 <br>🖥 Machine Learning Engineer | Data Scientist
-🤖 LLMs • Recommendation Systems • Applied ML
-🌱 Nature Lover
+<br>🤖 LLMs • Recommendation Systems • Applied ML
+<br>🌱 Nature Lover
 
 
 # 💻 My Tech Stack:
